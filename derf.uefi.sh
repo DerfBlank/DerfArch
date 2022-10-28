@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# EZ Arch Installer - UEFI
-# Revision: 2022.10.30 -- by eznix (https://sourceforge.net/projects/ezarch/)
-# (GNU/General Public License version 3.0)
+# Derf Arch Installer - UEFI
+# Revision: 2022.10.30 -- by Derf (https://sourceforge.net/projects/derf/)
+# (GNU/General Public License version 4.0)
 
 # ----------------------------------------
 # Define Variables
@@ -33,13 +33,12 @@ welcome () {
   clear
   echo "==================================================="
   echo "=                                                 ="
-  echo "=     Welcome to the Ezarch Installer Script      ="
+  echo "=     Welcome to the Derf Installer Script        ="
   echo "=                                                 ="
   echo "=     UEFI Edition                                ="
   echo "=     Revision: 2022.10.30                        ="
   echo "=                                                 ="
   echo "=     Brought to you by eznix                     ="
-  echo "=     https://sourceforge.net/projects/ezarch/    ="
   echo "=                                                 ="
   echo -e "=================================================== \n"
   sleep 4
